@@ -1,12 +1,12 @@
 # Data Structures in C 
 
-2.Class algorithms data structures practical execises
+2nd year algorithms & data structures practical exercises
 
 ## Content
 - [x] Linked Lists
 - [ ] Stack
 - [ ] Queue
-- [ ] Binary Search Tree
+- [x] Binary Search Tree
 - [ ] Sorting & Searching Algorithms
 
 ## Development Environment
