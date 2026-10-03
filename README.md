@@ -4,10 +4,10 @@
 
 ## Content
 - [x] Linked Lists
-- [ ] Stack
-- [ ] Queue
+- [x] Stack
+- [x] Queue
 - [x] Binary Search Tree
-- [ ] Sorting & Searching Algorithms
+- [x] Sorting & Searching Algorithms
 
 ## Development Environment
 - Language: C
